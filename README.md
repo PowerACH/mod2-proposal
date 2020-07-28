@@ -15,23 +15,32 @@ I would like to add a save feature to the program.
 TheMealDB (https://www.themealdb.com/api.php)
 
 ### Wireframe
-![](./Link)
-![](./Link)
+![](wireframes/Wireframe1.png)
+![](wireframes/Wireframe2.png)
+![](wireframes/Wireframe3.png)
+![](wireframes/Wireframe4.png)
 
 
 ### Additional Features 
 
-
+Save feature
+Learning Firebase/add'l backend tools
 
 ### Tentative Timeline 
-Tuesday : Start building site layout
+Tuesday : Figure site logic and API features
+          Create site components.
 
-Wednesday : CSS
+Wednesday : Figure site logic and API features
+          Create site components.
+          Start building site layout
+          CSS
 
-Thursday : CSS
+Thursday : Create site components.
+          Continue building site layout 
+          CSS
 
-Friday : 
+Friday : Additional Features
 
-Saturday : 
+Saturday : Additional Features
 
 Sunday : 
