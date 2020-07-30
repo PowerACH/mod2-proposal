@@ -1,4 +1,4 @@
-### Potato
+# Potato
 ### Details
 A common problem in most households is not knowing what to eat for dinner. This program will solve that problem by providing recipe options based on the ingredients one already has or the ingredients they prefer.
 This site will provide a list of recipes based on the users preferences.
@@ -31,20 +31,12 @@ Save feature using Firebase or any other backend platform.
 
 
 ### Tentative Timeline 
-Tuesday : Figure site logic and API features
-          Create site components.
+1. Start Main Page, Buttons, Routing, Links, CSS
 
-Wednesday : Figure site logic and API features
-          Create site components.
-          Start building site layout
-          CSS
+2. Start Main Recipe page, add API , add content, CSS
 
-Thursday : Create site components.
-          Continue building site layout 
-          CSS
+3. Create single recipe card components, add links, CSS
 
-Friday : Additional Features
+4. Create search form to narrow search results through "Get Started" button
 
-Saturday : Additional Features
-
-Sunday : 
+5. Discover save feature options
